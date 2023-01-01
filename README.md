@@ -1,1 +1,1 @@
-Booking Service
+Booking MicroService
